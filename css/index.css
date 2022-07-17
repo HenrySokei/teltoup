@@ -1,0 +1,118 @@
+/* NAVBAR */
+
+body{
+    text-align: center;
+}
+
+.Teltopup-brand{
+    padding: 5px 10px;
+    line-height: 2;
+}
+
+.nav-link{
+    padding: 2px 2px;
+    color: white;
+}
+
+/* Photo Cover section */
+
+#first-section{
+    color: white;
+}
+
+.Photo-cover{
+    background-size: cover;
+    height: 617px;
+    padding: 80px 0;
+}
+
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+}
+
+.first-button{
+    margin: 7px 15px;
+}
+
+
+
+ /* WHY CHOOSE US SECTION  */
+
+ #whychooseus-section{
+    padding: 7% 15%;
+ }
+
+ .test-whychooseus{
+    margin: 3% auto 7%;
+    color: green;
+ }
+
+
+ .whychooseus-images{
+    width: 80px;
+ }
+
+ /* EASY TRANSACTION SECTION */
+
+
+ #trans-easy{
+    padding: 7% 15%;
+ }
+
+ .image-trans-easy{
+    width: 50%;
+ }
+
+
+ @media (min-width:900px) {
+ .image-trans-easy{
+    float: left;
+    margin-right: 20px;
+}
+ }
+ .aloft{
+    text-align: left;
+ }
+ .h2aloft{
+    color: green;
+ }
+
+ .easy-para{
+    color: green;
+ }
+ .service-table{
+    text-align: center;
+    margin: auto;
+ }
+
+ /* PRICING */
+ /* #pricing{
+
+ } */
+
+
+
+ /* testimonies */
+
+.testimonies-box{
+    padding: 7% 15%;
+}
+
+.testimonies-images{
+    width: 50%;
+    margin: auto;
+}
+
+/* FOOTER */
+
+#footer{
+    padding: 7% 15%;
+    background-color: green;
+    color: white;
+}
+
+.footer-unorderedlist{
+    color: white;
+    text-decoration: none;
+}
